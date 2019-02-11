@@ -1,2 +1,5 @@
 # hello-world
-Another repository 
+
+Hi yall!
+
+I am Olivia Wilsey a junior at Catawba College and majoring in Accounting and minoring in Business Administration. I am an obsessed dog mom and a dedicated student. Success is coming my way!
