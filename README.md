@@ -1,4 +1,5 @@
 # hello-world
+My repository for Fundamentals of Information System class.
 
 Hi yall!
 
